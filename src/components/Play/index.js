@@ -17,6 +17,13 @@ class Play extends React.Component {
     highScore: 0
   };
 
+  componentDidMount() {
+    this.setState({ 
+      dinos: this.shuffleDinos(this.state.dinos),
+      score: 0,
+      highScore: 0 
+    });
+  }
 
   //Shuffle the array  -  https://stackoverflow.com/questions/49555273/how-to-shuffle-an-array-of-objects-in-javascript
   shuffleDinos = (input) => {

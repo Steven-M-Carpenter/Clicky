@@ -1,3 +1,5 @@
+//This will be the component to hold the images
+//
 import React from "react";
 import "./dinocard.css";
 
