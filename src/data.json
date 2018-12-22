@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "clicked": false,
+    "name": "dino1",
+    "image": "/assets/images/dino1.jpg"
+  },
+  {
+    "id": 2,
+    "clicked": false,
+    "name": "dino2",
+    "image": "/assets/images/dino2.jpg"
+  },
+  {
+    "id": 3,
+    "clicked": false,
+    "name": "dino3",
+    "image": "/assets/images/dino3.jpg"
+  },
+  {
+    "id": 4,
+    "clicked": false,
+    "name": "dino4",
+    "image": "/assets/images/dino4.jpg"
+  },
+  {
+    "id": 5,
+    "clicked": false,
+    "name": "dino5",
+    "image": "/assets/images/dino5.jpg"
+  },
+  {
+    "id": 6,
+    "clicked": false,
+    "name": "dino6",
+    "image": "/assets/images/dino6.jpg"
+  },
+  {
+    "id": 7,
+    "clicked": false,
+    "name": "dino7",
+    "image": "/assets/images/dino7.jpg"
+  },
+  {
+    "id": 8,
+    "clicked": false,
+    "name": "dino8",
+    "image": "/assets/images/dino8.jpg"
+  },
+  {
+    "id": 9,
+    "clicked": false,
+    "name": "dino9",
+    "image": "/assets/images/dino9.jpg"
+  },
+  {
+    "id": 10,
+    "clicked": false,
+    "name": "dino10",
+    "image": "/assets/images/dino10.jpg"
+  },
+  {
+    "id": 11,
+    "clicked": false,
+    "name": "dino11",
+    "image": "/assets/images/dino11.jpg"
+  },
+  {
+    "id": 12,
+    "clicked": false,
+    "name": "dino12",
+    "image": "/assets/images/dino12.jpg"
+  },
+  {
+    "id": 13,
+    "clicked": false,
+    "name": "dino13",
+    "image": "/assets/images/dino13.jpg"
+  },
+  {
+    "id": 14,
+    "clicked": false,
+    "name": "dino14",
+    "image": "/assets/images/dino14.jpg"
+  },
+  {
+    "id": 15,
+    "clicked": false,
+    "name": "dino15",
+    "image": "/assets/images/dino15.jpg"
+  },
+  {
+    "id": 16,
+    "clicked": false,
+    "name": "dino16",
+    "image": "/assets/images/dino16.jpg"
+  },
+  {
+    "id": 17,
+    "clicked": false,
+    "name": "dino17",
+    "image": "/assets/images/dino17.jpg"
+  },
+  {
+    "id": 18,
+    "clicked": false,
+    "name": "dino18",
+    "image": "/assets/images/dino18.jpg"
+  },
+  {
+    "id": 19,
+    "clicked": false,
+    "name": "dino19",
+    "image": "/assets/images/dino19.jpg"
+  },
+  {
+    "id": 20,
+    "clicked": false,
+    "name": "dino20",
+    "image": "/assets/images/dino20.jpg"
+  }
+]

@@ -1,0 +1,14 @@
+/* Styles for the header component if needed. */
+h2 {
+  margin-bottom: 0;
+}
+
+.navbar {
+  background-color: black;
+  color: white;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-size: 30px;
+}
