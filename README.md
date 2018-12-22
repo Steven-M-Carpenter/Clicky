@@ -27,5 +27,5 @@ There are no client side requirements beyond a modern browser.
 ## Link
 The link below will allow you to access the application from your browser:
 
-  [Click-a-saurus](http://pure-plains-52371.herokuapp.com/) 
+  [Click-a-saurus](https://steven-m-carpenter.github.io/clicky/) 
 
